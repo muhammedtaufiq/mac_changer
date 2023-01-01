@@ -4,7 +4,7 @@ import subprocess
 import optparse #allows user to add arguements
 
 #Variables
-parser = optparse.OptionParser
+parser = optparse.OptionParser()
 interface = (input("please input the interface:"))# Select the interface to be changed
 new_mac = (input("Please enter 12 digit Mac eg 12:22:33:44:55:66 :"))# Select the MAC address to be ammended to.
 
