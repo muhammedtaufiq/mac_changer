@@ -1,2 +1,2 @@
 # mac_changer
-mac Changer Python Script
+Sinple mac Changer Python Script running on bash
